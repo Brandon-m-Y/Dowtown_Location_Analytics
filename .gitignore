@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Cached API responses
+cache/
+data/
+
+# Data file csv
+places_*.csv
+places_restaurants_hamilton.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
