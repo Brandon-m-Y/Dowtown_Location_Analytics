@@ -6,8 +6,7 @@ cache/
 data/
 
 # Data file csv
-places_*.csv
-places_restaurants_hamilton.csv
+
 
 # Jupyter artifacts
 .ipynb_checkpoints/
