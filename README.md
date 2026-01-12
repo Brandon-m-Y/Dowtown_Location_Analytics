@@ -19,7 +19,7 @@ The project is designed as a foundational location-intelligence analysis that ca
 
 **The interactive dashboard is hosted on Streamlit Community Cloud:**
 
-[🔗 **Access the Live App**](https://your-app-name.streamlit.app) *(URL to be updated)*
+[🔗 **Access the Live App**]([https://your-app-name.streamlit.app](https://downtown-business-analysis.streamlit.app/)) *(URL to be updated)*
 
 The web application provides an interactive interface to explore restaurant data across all three cities with:
 - Interactive maps showing restaurant locations
