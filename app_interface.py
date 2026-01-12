@@ -38,7 +38,8 @@ def load_city_data(city_option):
     return df
 
 # ── Main App ───────────────────────────────────────────────────────────────
-st.title('Downtown Business Explorer')
+st.title("Downtown Restaurant Explorer")
+st.subheader("Explore downtown restaurants, ratings, and spatial patterns")
 
 option = st.selectbox(
     '##### Choose Your City',
