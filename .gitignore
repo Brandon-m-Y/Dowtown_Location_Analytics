@@ -3,9 +3,7 @@
 
 # Cached API responses
 cache/
-data/
 
-# Data file csv
 
 
 # Jupyter artifacts
