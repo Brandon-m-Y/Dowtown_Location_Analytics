@@ -111,7 +111,7 @@ else:
         layers=[layer],
         initial_view_state=view_state,
         tooltip=tooltip,
-        map_style='mapbox://styles/mapbox/light-v9'
+        map_style=None
     )
 
     st.pydeck_chart(deck, use_container_width=True)
